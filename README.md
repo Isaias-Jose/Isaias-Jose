@@ -25,7 +25,5 @@
   <a href = "mailto:engenheiroisaias99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isa%C3%ADas-jos%C3%A9-82229b180" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Isaias-Jose/Isaias-Jose/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
